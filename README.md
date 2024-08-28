@@ -1,8 +1,3 @@
- <div>
-   <a href="https://github.com/GabrielHyn">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
