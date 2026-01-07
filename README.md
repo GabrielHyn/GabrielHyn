@@ -1,13 +1,23 @@
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-</div>
- 
- <br>
- <br>
- 
-<div> 
-  <a href="https://instagram.com/Gabriel_Hyn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/gabriel-gomes-293427250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# Gabriel Gomes
 
+Backend Developer based in Brazil. 
+I work mainly with **PHP** and **Laravel**, focusing on writing clean, maintainable code.
+
+Currently, I'm studying **Software Architecture** to understand how things work under the hood, independent of frameworks.
+
+### 🔭 Latest Work
+**[php-architecture-study](https://github.com/GabrielHyn/php-architecture-study)**
+A vanilla PHP project implementing Design Patterns (Strategy, Factory) and DTOs to process payments without using Laravel.
+
+### 💻 Tech Stack
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
+
+<br>
+
+---
+[LinkedIn](https://www.linkedin.com/in/gabriel-gomes-293427250) • [Instagram](https://instagram.com/Gabriel_Hyn)
